@@ -9,7 +9,7 @@
 - <b>Microsoft Azure</b>
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/LajonathonT/Network-Security-Groups-NSGs-and-Inspecting-Traffic-Between-Azure-Virtual-Machines)
   -  [Understanding Permissions in Azure](https://github.com/LajonathonT/file-permissions)
-  -  [Installing Active Directory]( 
+  -  [Installing Active Directory](https://github.com/LajonathonT/installing-ad)
 - <b>Virtual Private Networks<b>
    - [VPN-Setup-and-Usage-Proton-VPN](https://github.com/LajonathonT/VPN-Setup-and-Usage-Proton-VPN-)
  
