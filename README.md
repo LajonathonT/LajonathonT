@@ -7,7 +7,6 @@
   - [osTicket: Post-Installation Configuration](https://github.com/LajonathonT/Post-Installation-Configuration)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/lajonathont/ticket-lifecycle)
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/LajonathonT/Network-Security-Groups-NSGs-and-Inspecting-Traffic-Between-Azure-Virtual-Machines)
 - <b>Virtual Private Networks<b>
    - [VPN-Setup-and-Usage-Proton-VPN](https://github.com/LajonathonT/VPN-Setup-and-Usage-Proton-VPN-)
