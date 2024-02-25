@@ -10,6 +10,7 @@
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/LajonathonT/Network-Security-Groups-NSGs-and-Inspecting-Traffic-Between-Azure-Virtual-Machines)
 - <b>Virtual Private Networks<b>
    - [VPN-Setup-and-Usage-Proton-VPN](https://github.com/LajonathonT/VPN-Setup-and-Usage-Proton-VPN-)
+   - [Understanding Permissions in Azure](
 <h2>🤳Connect with me:</h2>
 
 [<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
