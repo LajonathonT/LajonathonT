@@ -8,9 +8,10 @@
   - [osTicket: Ticket Lifecycle Examples](https://github.com/lajonathont/ticket-lifecycle)
 - <b>Microsoft Azure</b>
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/LajonathonT/Network-Security-Groups-NSGs-and-Inspecting-Traffic-Between-Azure-Virtual-Machines)
+  -  [Understanding Permissions in Azure](https://github.com/LajonathonT/file-permissions)
 - <b>Virtual Private Networks<b>
    - [VPN-Setup-and-Usage-Proton-VPN](https://github.com/LajonathonT/VPN-Setup-and-Usage-Proton-VPN-)
-   - [Understanding Permissions in Azure](https://github.com/LajonathonT/file-permissions)
+ 
 <h2>🤳Connect with me:</h2>
 
 [<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
